@@ -5,12 +5,14 @@ Top Marks Development curates a small but growing collection of focused, reliabl
 
 Our philosophy is simple: **practical tools, clean code, zero noise.**
 
-If you like what we do, then a sponsorship, or one time donation would mean the world! Check ou tthe links below:
+If you like what we do, then a sponsorship, or one time donation would mean the world! Check out the links below:
 
 [![Support us on ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N01TXZCB)
 [![Buy me a coffee](https://img.shields.io/badge/buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/topmarksdevelopment)
 [![PayPal donate button](https://img.shields.io/badge/support_me-paypal-yellow.svg?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=5UFB62RB4AWNL)
 [![Sponsor through GitHub](https://img.shields.io/badge/sponsor_me-github-yellow.svg?style=for-the-badge)](https://github.com/sponsors/TopMarksDevelopment)
+
+Join the discord community for devs everywhere: [![Discord](https://img.shields.io/badge/Discord-Top_Marks_Community-yellow?logo=discord&style=for-the-badge)](https://discord.com/invite/dPG4utpAV6?utm_source=GitHub%20Shield&utm_medium=Connect)
 
 ---
 
